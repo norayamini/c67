@@ -1,0 +1,7 @@
+Characters:
+-----------
+Akbar
+Birbal
+Farmer
+Neighbour
+
