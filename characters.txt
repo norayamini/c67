@@ -3,5 +3,6 @@ Characters:
 Akbar
 Birbal
 Farmer
-Neighbour
+Neighbour1
+Neighbour2
 
